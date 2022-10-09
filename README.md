@@ -1,2 +1,1 @@
-# CentreMark
-CSS and Markup rendering engine in C
+# CSS and Markup hardware-accelerated rendering engine in C 
